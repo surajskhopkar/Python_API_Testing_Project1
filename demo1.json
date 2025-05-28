@@ -1,0 +1,38 @@
+{
+  "store": {
+    "name": "Tech Store",
+    "location": "San Francisco",
+    "products": [
+      {
+        "category": "Electronics",
+        "items": [
+          {
+            "id": "E1",
+            "name": "Smart TV",
+            "price": 1500
+          },
+          {
+            "id": "E2",
+            "name": "Gaming Console",
+            "price": 400
+          }
+        ]
+      },
+      {
+        "category": "Books",
+        "items": [
+          {
+            "id": "B1",
+            "name": "Science Fiction",
+            "price": 15
+          },
+          {
+            "id": "B2",
+            "name": "Mystery Novel",
+            "price": 12
+          }
+        ]
+      }
+    ]
+  }
+}
